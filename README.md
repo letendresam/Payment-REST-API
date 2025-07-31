@@ -1,2 +1,2 @@
-# Payment-Spring-Boot-REST-API
+# Payment-REST-API
 Simple payment Spring Boot REST API
